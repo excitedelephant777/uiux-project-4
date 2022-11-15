@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0px 0px;
+}
+
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.image-box {
+    border-radius: 15px 15px 0px 0px;
+    background: #C4C4C4;
+}
+
+.text-box {
+    border-radius: 0px 0px 15px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+h1, h2 {
+    font-family: 'Space Mono', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+}
