@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/uiux-project-4/static/css/main.b31b2266.css",
-    "main.js": "/uiux-project-4/static/js/main.8a44b7a7.js",
+    "main.css": "/uiux-project-4/static/css/main.316d316b.css",
+    "main.js": "/uiux-project-4/static/js/main.8eb701f7.js",
+    "static/media/lisbon.png": "/uiux-project-4/static/media/lisbon.379eb522993ded50c3f0.png",
+    "static/media/paris.png": "/uiux-project-4/static/media/paris.5916cc4425bcdea31e5e.png",
+    "static/media/rome.png": "/uiux-project-4/static/media/rome.60d41c592bd384e76a6e.png",
+    "static/media/dublin.png": "/uiux-project-4/static/media/dublin.0dc7473480c866a1322a.png",
+    "static/media/copenhagen.png": "/uiux-project-4/static/media/copenhagen.7c6fa29e3e8c4c897205.png",
+    "static/media/stockholm.png": "/uiux-project-4/static/media/stockholm.36fb5316d97e19167453.png",
+    "static/media/amsterdam.png": "/uiux-project-4/static/media/amsterdam.92230767e429b6bb3007.png",
+    "static/media/athens.png": "/uiux-project-4/static/media/athens.dd422a14b96a94e0c71f.png",
+    "static/media/madrid.png": "/uiux-project-4/static/media/madrid.8e2d399c09eda9b57366.png",
+    "static/media/berlin.png": "/uiux-project-4/static/media/berlin.bbe4d2b3821e57c7a42d.png",
+    "static/media/budapest.png": "/uiux-project-4/static/media/budapest.ca4151681afd93e09196.png",
+    "static/media/london.png": "/uiux-project-4/static/media/london.4007a584e23fa11964f5.png",
     "index.html": "/uiux-project-4/index.html",
-    "main.b31b2266.css.map": "/uiux-project-4/static/css/main.b31b2266.css.map",
-    "main.8a44b7a7.js.map": "/uiux-project-4/static/js/main.8a44b7a7.js.map"
+    "main.316d316b.css.map": "/uiux-project-4/static/css/main.316d316b.css.map",
+    "main.8eb701f7.js.map": "/uiux-project-4/static/js/main.8eb701f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b31b2266.css",
-    "static/js/main.8a44b7a7.js"
+    "static/css/main.316d316b.css",
+    "static/js/main.8eb701f7.js"
   ]
 }
