@@ -8,6 +8,7 @@ import MenuItem from '@mui/material/MenuItem';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import './FilteredList.css'
 import { useState } from 'react';
+import { Typography } from '@mui/material';
 
 const allLanguages = ['English', 'Dutch', 'French', 'Spanish', 'Swedish', 'German', 'Italian', 'Portuguese', 'Hungarian', 'Danish', 'Greek']
 
@@ -92,21 +93,23 @@ export function FilteredList(list) {
         <div>
             <div className='filters'>
             <div className='element'>
-            <Select
-                id="language"
-                multiple
-                value={languages}
-                onChange={(e) => onSelectFilterLanguages(e)}
-                renderValue={(selected) => selected.join(', ')}
-                label="Language"
-            >
-                {allLanguages.map((language) => (
-                    <MenuItem key={language} value={language}>
-                    <Checkbox checked={languages.indexOf(language) > -1}/>
-                    {language}
-                    </MenuItem>
-                    ))}
-            </Select>
+                <div className='select'>
+                <Typography variant="caption">Language</Typography>
+                <Select
+                    id="language"
+                    multiple
+                    value={languages}
+                    onChange={(e) => onSelectFilterLanguages(e)}
+                    renderValue={(selected) => selected.join(', ')}
+                >
+                    {allLanguages.map((language) => (
+                        <MenuItem key={language} value={language}>
+                        <Checkbox checked={languages.indexOf(language) > -1}/>
+                        {language}
+                        </MenuItem>
+                        ))}
+                </Select>
+                </div>
             </div>
             <div className='element'>
             <TextField 
