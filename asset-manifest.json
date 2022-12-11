@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uiux-project-4/static/css/main.316d316b.css",
-    "main.js": "/uiux-project-4/static/js/main.8eb701f7.js",
+    "main.css": "/uiux-project-4/static/css/main.a87f9f50.css",
+    "main.js": "/uiux-project-4/static/js/main.0f9e1352.js",
     "static/media/lisbon.png": "/uiux-project-4/static/media/lisbon.379eb522993ded50c3f0.png",
     "static/media/paris.png": "/uiux-project-4/static/media/paris.5916cc4425bcdea31e5e.png",
     "static/media/rome.png": "/uiux-project-4/static/media/rome.60d41c592bd384e76a6e.png",
@@ -15,11 +15,11 @@
     "static/media/budapest.png": "/uiux-project-4/static/media/budapest.ca4151681afd93e09196.png",
     "static/media/london.png": "/uiux-project-4/static/media/london.4007a584e23fa11964f5.png",
     "index.html": "/uiux-project-4/index.html",
-    "main.316d316b.css.map": "/uiux-project-4/static/css/main.316d316b.css.map",
-    "main.8eb701f7.js.map": "/uiux-project-4/static/js/main.8eb701f7.js.map"
+    "main.a87f9f50.css.map": "/uiux-project-4/static/css/main.a87f9f50.css.map",
+    "main.0f9e1352.js.map": "/uiux-project-4/static/js/main.0f9e1352.js.map"
   },
   "entrypoints": [
-    "static/css/main.316d316b.css",
-    "static/js/main.8eb701f7.js"
+    "static/css/main.a87f9f50.css",
+    "static/js/main.0f9e1352.js"
   ]
 }
